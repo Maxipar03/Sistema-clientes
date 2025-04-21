@@ -1,7 +1,7 @@
 package com.coderhouse.clients_system.entities;
 
 import jakarta.persistence.*;
-import lombok.Data;
+
 import java.util.List;
 
 @Entity

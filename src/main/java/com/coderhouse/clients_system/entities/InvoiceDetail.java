@@ -63,4 +63,5 @@ public class InvoiceDetail {
     @ManyToOne
     @JoinColumn(name = "product_id", nullable = false)
     private Product product;
+
 }
